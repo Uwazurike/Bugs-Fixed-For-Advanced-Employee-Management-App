@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Advanced Employee management project\Advanced Employee management project\bin\Debug\Advanced Employee management project.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Advanced Employee management project\Advanced Employee management project\bin\Debug\Advanced Employee management project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Advanced Employee management project\Advanced Employee management project\bin\Debug\Advanced Employee management project.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Advanced Employee management project\Advanced Employee management project\obj\Debug\Advanced Employee management project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Advanced Employee management project\Advanced Employee management project\obj\Debug\Advanced Employee management project.pdb
+C:\Users\iykef\OneDrive\Documents\Visual Studio 2015\Projects\Advanced Employee management project\Advanced Employee management project\obj\Debug\Advanced Employee management project.csprojResolveAssemblyReference.cache
